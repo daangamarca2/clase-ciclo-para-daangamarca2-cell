@@ -1,0 +1,9 @@
+// Generar un programa que presente en pantalla valores
+
+1. Inicio
+2. num, i[0, n]
+3. Para(num<--1, num<=3, 1) haga
+4. // empieza en 1, itera hasta que num sea menor o igual a 10, incrementos de 1
+5.     Escribir num
+6. Fin_Para
+7. Fin

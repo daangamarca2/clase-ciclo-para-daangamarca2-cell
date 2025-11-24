@@ -1,0 +1,8 @@
+// Generar un programa que presente en pantalla
+
+1. Inicioi
+2. num, i[0, n]
+3. Para(num<--3, num>0, -1) haga
+4.     Escribir num
+5. Fin_Para
+6. Fin

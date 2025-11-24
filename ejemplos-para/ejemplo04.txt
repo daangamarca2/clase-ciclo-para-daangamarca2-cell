@@ -1,0 +1,12 @@
+// Generar la siguiente serie
+// +1/1 +1/2 +1/3 +1/4 +1/5 +1/6 +1/7 +1/8 +1/9 +1/10
+1. Inicio
+2. limite, i[0, n] <-- 6
+3. numerador, i[0, n] <-- 1
+4. denominador, i[0, n] <-- 1
+5. cadena, x(1000)[{0-9},{-,+, BS, /}] <-- ""
+6. Para(denominador<--1, denominador<=limite, 1) haga
+7.     cadena <-- cadena + "+" + numerador + "/" + denominador+" "
+8. Fin_Para
+9. Escribir cadena
+10. Fin
